@@ -1,0 +1,15 @@
+*__pycache__*
+build
+dist
+*egg-info*
+*.so
+
+# vscode
+.vscode/
+
+# jupyter notebook
+.ipynb_checkpoints/
+
+# mac
+.DS_Store
+
